@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I being moved of the Lord, doth [sic] call unto you that are gathered together in Parliament.</title>
+            <author>Web, Mary.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96139</idno>
+            <idno type="STC">Wing W1205</idno>
+            <idno type="STC">ESTC R186329</idno>
+            <idno type="EEBO-CITATION">47683529</idno>
+            <idno type="OCLC">ocm 47683529</idno>
+            <idno type="VID">172986</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172986)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2660:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>I being moved of the Lord, doth [sic] call unto you that are gathered together in Parliament.</title>
+                  <author>Web, Mary.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Simmons ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed on p. 4 "...Mary Web, whom the world scornfully calls Quaker."</note>
+                  <note>Imperfect: stained, creased, torn, and overwritten, with loss of print.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Sermons --  Early works to 1800.</term>
+               <term>Warnings --  Quaker authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:172986:1" rendition="simple:additions"/>
+            <head>I being moved of the Lord, doth call unto you that are gathered together in Parliament.</head>
+            <p>O Sons of men, eat your meat with <hi>trembling,</hi> &amp; drink your wine with <hi>trouble, and carefulneſs,</hi> and ceaſe from the evil of your doings, leaſt it ſhould be ſaid to you, as it was by <hi>Ezekiel,</hi> the Lord ordered him to declare this, <hi>I will ſet my face againſt that man, I will make him an ex<g ref="char:EOLhyphen"/>ample and a Proverb.</hi> O, if there be any here that are haughty, I beſeech you in the fear of the Lord, come down to that low little principle placed in every one of you, which doth check and reprove you in ſe<g ref="char:EOLhyphen"/>cret, this is the way by which you muſt enter into the <hi>Rock,</hi> I ſay hide your ſelves there for <hi>fear of the Lord, and for the glory of his Majeſty, for the day of the Lord of Hoſts ſhall be upon every one that is proud and lofty, and upon every one that is lifted up,</hi> for he ſhall be brought low, and upon all the <hi>Cedars of Lebanon,</hi> that are high and lifted up (Mark) what are you lifted up from; or what is it you are a joyning too? are any of you as oaks? are any of you as high as Mountains in your own thoughts? are any of you as Towers in ſtrength? come to know that pow<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that can ſhake you, are any of you as fenced walls? turn in, and feel who is your fencer and try, <hi>can you dwell with everlaſting burnings?</hi> if not, your fence will be conſumed and your walls thrown down, <hi>for the Lord alone will be exalted in this the day of his Power;</hi> Therefore let not the wiſe man glory in his wiſdom, neither let the mighty man glory in his might, let not the rich man glory in his riches, but let him that glo<g ref="char:EOLhyphen"/>rieth, glory in this, that he underſtandeth and knoweth me, that I am the Lord which exerciſes loving kindneſs, judgement and righte<g ref="char:EOLhyphen"/>ouſneſſe in the earth; for in theſe things I delight ſaith the Lord; if there be any of you now here that is truly noble, come to the try<g ref="char:EOLhyphen"/>al, haſt thou received the word with all readineſſe of mind? if ſo, then thou knoweſt how to ſearch the Scriptures; O be not ſatisfied with the piece of nobility which <hi>Felix</hi> had, nor with that meaſure which <hi>Feſtus</hi> enjoyed, <hi>behold not many wiſe men after the fleſh, not many mighty, not many noble, but God hath choſen the fooliſh things of the World to confound the wiſe;</hi> Therefore he that will be wiſe, muſt firſt become a fool, that he may be made wiſe, and he that will be truly honoura<g ref="char:EOLhyphen"/>ble, muſt know the fear of the Lord by that pure principle which is placed in you, which will lead you to humility; This is that which reproves for a vain life, namely covetouſneſſe which leads to idola<g ref="char:EOLhyphen"/>try,
+<pb n="2" facs="tcp:172986:2"/>pride, uncleanneſſe, ſwearing, lying, evil ſpeaking, fooliſh jeaſting, idle communication, let it not be once heard amongſt you, for, <hi>for theſe things cometh the wrath of God,</hi> he that refuſeth inſtructi<g ref="char:EOLhyphen"/>on, deſpiſeth his own ſoul, <hi>the fear of the Lord is the beginning of wiſ<g ref="char:EOLhyphen"/>dom.</hi> Friends, one thing more I have to lay before you, which I have been long burthened with, (it is namely this) that which you call your Church Government; who ordained thoſe houſes to be called Churches? who ordained thoſe Prieſts which receives hire? from what fountain ariſeth their words? conſider, is it not from the letter? Theſe are ſuch <hi>whom I deny their voice,</hi> for theſe are ſtrangers, <hi>the ſheep of Chriſt knowes his voice,</hi> and they follow him; the Lord in his infinite love hath opened my underſtanding, that now I know a Miniſter of the ſpirit from a Miniſter of the Letter, their fruits makes them manifeſt, the one is Colledge bred, taking his degrees there, thus he is made a Miniſter of men, the other is fitted and furniſhed with the Spirit of the Lord, ſometimes called out of their ſhops, ſome from their handi-craft Trades, and ſome from the Plow, thoſe being made able Miniſters of the Spirit; think this not ſtrange, for it was the way of Chriſt when he was upon earth, to call men from their nets theſe are as they were, having the ſame ſpirit as they had, they have had power given them to turn men from darkneſs to light, from the power of Satan, to know the living God, and to love him, and to fear him, &amp; in keeping his commandments they are not grievous but joyous; theſe Friends which have been ſent forth to declare this truth, which hath been a word of Life unto me and many others, they need no Steeple-houſe, neither a hundred nor hundreds a year, nei<g ref="char:EOLhyphen"/>ther want they Curate, Clerk or Sexton, nor Bells, wherein many thouſands of pounds are laid out waſtefully; Conſider how many Wi<g ref="char:EOLhyphen"/>dows and Fatherleſs Children there be which wants bread, lying up and down the Streets; Down with your Bels and make money of them, and cloath the naked, and feed the hungry, and come to know what the Bell of <hi>Aaron</hi> is, come to know what the faſt is which the Lord God accepts of, ſo ſhall you come to know the everlaſting Sabbath. Friends, I would have you really believe this, That God is no accep<g ref="char:EOLhyphen"/>ter or reſpector of perſons, <hi>but in every Nation he that feareth him and worketh righteouſneſs is accepted with him,</hi> wherein the Righteous doth rejoyce and are exceeding glad; for all the upright in heart have cauſe to rejoyce, for their crown none ſhall take from them.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:172986:2"/>
+               <head>O all ye Inhabitants of the earth</head>
+               <p>WHo are in the profeſſion and not in the poſſeſſion of a Sab<g ref="char:EOLhyphen"/>bath, be awakened out of the ſleep of your ſecurity, for the Lord our God hath a controverſie with you for your hypo<g ref="char:EOLhyphen"/>criſie; Behold, he is weary of your lip-ſervice, ye have drawn near him with your mouths, but your hearts have been far from him; Oh conſider if this be not your ſtate.</p>
+               <p>This that you call your <hi>Sabbath,</hi> Haſt thou not put it to this uſe? there hath been more preparation for the fleſh, then for the Lord, in the coſt of thy apparel, and the fulneſſe of dyet, in<g ref="char:EOLhyphen"/>ſtead of ſpending this day holily, thou haſt ſpent it idlely, wan<g ref="char:EOLhyphen"/>tonly and vainly, (Mark) If it be not your ſtudies againſt that day what to eat, and what to drink, and what to put on, and when you are richly clad, &amp; full fed, I ſpeak to you as have enough as to the outward; Conſider, was your talents given you for this end? is this the way to be accepted of the Lord, either in the day or in thy action, you that are of a lower degree, do ye not alſo ſtrive to fol<g ref="char:EOLhyphen"/>low the ſteps of theſe that are mentioned before in working wick<g ref="char:EOLhyphen"/>edneſs with greedineſs; Turn into the meaſure of God, I ſay turn in both old &amp; young, rich &amp; poor, for I have a witneſs in every one of you which doth, or ſhall ſet theſe things in order before you; therefore whileſt it is yet time, whileſt it is called to day, Conſi<g ref="char:EOLhyphen"/>der in the pure fear of the Lord, if it be not high time to ceaſe from vanity, O thou that art rowling thy ſelf in vanity, thou knoweſt not how ſoon thy breath may be ſtop't, this know aſ<g ref="char:EOLhyphen"/>ſuredly, that thou muſt give an account for thy actions done in the fleſh, your words and your thoughts alſo, which hath been evil, and that continually, I ſay continually, feel my words, thy prayers, thy faſtings, thy Sabbath keeping, and all is abomina<g ref="char:EOLhyphen"/>tion to the Lord ſo long as thou abides in the fallen ſtate; con<g ref="char:EOLhyphen"/>ſider, are you not as thoſe people were who <hi>did eat and drink, and roſe up to play</hi> (I ſay to play) the generality of you on that day which you call your <hi>Sahbath,</hi> when you are full feed; do you not go to the Steeple-houſe, and there behave your ſelves as in a Play-houſe, gazing and viewing each other, for your
+<pb n="4" facs="tcp:172986:3" rendition="simple:additions"/>new faſhions; The Lord our God is wearied with theſe your wicked and prophane practiſes, And for this cauſe hath he a con<g ref="char:EOLhyphen"/>troverſy with you; <hi>I hate and abhorre your Faſt dayes, <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Lord, and I will not ſmell in your ſolemn Aſlemblies,</hi> But ye being igno<g ref="char:EOLhyphen"/>rant of God, you obſerve dayes, moneths, and times. Behold the Kingdom of God comes not by obſervations. See what the Lord ſaith, nay rather feel, <hi>I will cauſe all your mirth to ceaſe, your Faſt-dayes, and your Sabbaths, it is your iniquities which hideth good things from you;</hi> O repent, repent, forſake the evil of your doings, before the Vials of his indignation be powred out upon you; for the day is come, and coming, wherein the Lord will take venge<g ref="char:EOLhyphen"/>ance on them that knowes not our God, and that obeyes not the Goſpel of our Lord Jeſus Chriſt: The Lord is raiſing up witneſ<g ref="char:EOLhyphen"/>ſes to declare unto you the folly of your vain obſervations; (mark) <hi>One man eſteemeth one day above another, another man eſteem<g ref="char:EOLhyphen"/>eth every day alike. Let every man be fully perſwaded in his own mind, he that regardeth the day, regardeth it unto the Lord,</hi> (is this your ſtate) <hi>and he that regardeth not the day unto the Lord, he doth not regard it: Rom.</hi> 14.6. <hi>Let no man therefore judge us in meat, or in drink, or in reſpect of a holy day, or of the Sabbath dayes, which are a ſhadow of things to come; But the body is of Chriſt,</hi> 2 Coloſ. 16, 17. O my Friends, let us walk worthy of the Lord; unto all well-pleaſing, being fruitful in every good work, and witneſsing the increaſe of the knowledge of God, Quit your ſelves like chil<g ref="char:EOLhyphen"/>dren of light; <hi>Let no man beguile you of your reward, in a voluntary humility, if ye be dead with Chriſt from the Rudiments of the world, why as though living in the world are you ſubject to Ordinances; touch not, taſte not, handle not; for all theſe things are to periſh:</hi> and we are to trample upon them in this preſent life; who art thou that canſt limit the holy one of <hi>Iſrael,</hi> how he ſhall work, or by what means, I find the ſpirit without limitation, this query is in love, theſe lines are from a friend to the whole Creation, and a lover of Righteouſneſſe; I am known by the name of <hi>Mary Web,</hi> whom the world ſcornfully calls <hi>Quaker.</hi>
+               </p>
+               <trailer>The End.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth,</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
